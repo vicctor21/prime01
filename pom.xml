@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>com.prime</finalName>
+    <finalName>com.prime.com</finalName>
   </build>
 </project>
